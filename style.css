@@ -1,0 +1,21 @@
+/* DEVELOPER: Your Name Here, IS117-001, Spring 2024 */
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  margin-bottom: 20px;
+}
+
+header {
+  background-image: url('forest-background.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
